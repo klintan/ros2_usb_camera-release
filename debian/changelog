@@ -1,0 +1,13 @@
+ros-foxy-usb-camera-driver (0.1.1-1focal) focal; urgency=high
+
+  * Extended Readme.
+
+ -- Andreas Klintberg <ankl@kth.se>  Mon, 12 Apr 2021 00:00:00 -0000
+
+ros-foxy-usb-camera-driver (0.1.0-1focal) focal; urgency=high
+
+  * First release of Ros2 USB camera.
+
+ -- Andreas Klintberg <ankl@kth.se>  Sun, 14 Mar 2021 00:00:00 -0000
+
+
